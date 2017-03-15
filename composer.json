@@ -14,9 +14,13 @@
             "email": "sven.eisenschmidt@gmail.com"
         }
     ],
+    "version": "3.3.1",
     "require-dev": {
         "phpunit/phpunit": "~4.0"
     },
+    "require": {
+        "ENM1989/geckodriver": "^0.15.0"
+    },	
     "config": {
         "bin-dir": "bin"
     },
