@@ -19,7 +19,6 @@
             "email": "warwar.dp@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require-dev": {
         "phpunit/phpunit": "~4.0",
         "ENM1989/geckodriver": "^0.15.0"
