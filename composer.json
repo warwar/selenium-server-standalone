@@ -1,6 +1,6 @@
 {
     "name": "warwar/selenium-server-standalone",
-    "version":"v3.3.1-p2",
+    "version":"v3.3.1-p3",
     "description": "Composer distribution of Selenium Server Standalone, the browser automation framework. Adds a executable to your composer bin directory.",
     "type": "library",
     "keywords": [
